@@ -15,3 +15,35 @@ status login diset menjadi true. Jika status login tidak terverifikasi, pengguna
  halaman seperti dashboard atau pengelolaan kategori.
 Halaman Terkait: Setiap halaman yang memerlukan akses terbatas, seperti dashboard.php, 
 category.php, dan lainnya, memeriksa status login pengguna di bagian awal halaman.
+batas jumlah 3 baris:
+<div class="card-text">loremimpsum</div>
+css: .card-text{
+overflow:hidden;
+display:webkit-box;
+webkit:line-clamp:3;
+webkit-box-orient:vertical;
+}
+kata sambutan:
+<div class="float-img">
+css: .float-img{
+float:right;
+margin-right:10px;
+margin-bottom:5px;
+Border:solif black 1px;
+padding:2px;
+}
+tabel:
+<body>
+<h1 align="center">biodata diri</h1>
+<table width:"800px" border:"1px"align:"center" cellpading:"5">
+<tr>
+<th collspan:2>identitas diri</
+</tr>
+<td rowspan="7">
+img-src="img/"align="center">
+</td>
+<td>nama lengkap</td>
+<td>jihan</
+<tr>
+<td>tempat tanggal lahir</td
+<td>bkgornsjakwjehsjsj</td>
